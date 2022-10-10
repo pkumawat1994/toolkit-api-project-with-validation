@@ -1,0 +1,13 @@
+.mymainDiv {
+  text-align: center;
+}
+.inputType {
+  margin: 20px;
+}
+.Button {
+  height: 60px;
+  margin: 10px;
+  background-color: brown;
+  color: rgb(9, 13, 17);
+  border-radius: 20px;
+}
